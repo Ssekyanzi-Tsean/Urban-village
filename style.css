@@ -68,4 +68,16 @@ header
     display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: 0.5s;
+}
+header .logo
+{
+    color: #fff;
+    font-weight: 700;
+    font-size: 2em;
+    text-decoration: none;
+}
+header .logo span
+{
+    color: #ff0157;
 }
