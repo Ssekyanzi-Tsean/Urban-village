@@ -398,4 +398,11 @@ section
         cursor: pointer;
         
     }
+    .menuToggle.active
+    {
+        background: url(./images/close.png);
+        background-size: 30px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
 }
