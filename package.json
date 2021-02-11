@@ -1,0 +1,27 @@
+{
+  "name": "Urban-village",
+  "version": "1.0.0",
+  "description": "Restaurant Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssekyanzi-Tsean/Urban-village.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ssekyanzi-Tsean/Urban-village/issues"
+  },
+  "homepage": "https://github.com/Ssekyanzi-Tsean/Urban-village#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.2.1"
+  }
+}
